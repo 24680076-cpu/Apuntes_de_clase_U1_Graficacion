@@ -130,4 +130,5 @@ def generar_geometria_practica():
 
 generar_geometria_practica()
 ```
-
+## 1.6 Procesamiento de mapas de bits
+El procesamiento de mapas de bits implica la alteración de los valores numéricos de los píxeles (brillo, contraste, filtros de detección de bordes). En el desarrollo de software, esto se realiza mediante matrices de convolución que recorren la imagen original para generar una nueva versión procesada.
