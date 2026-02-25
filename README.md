@@ -132,3 +132,20 @@ generar_geometria_practica()
 ```
 ## 1.6 Procesamiento de mapas de bits
 El procesamiento de mapas de bits implica la alteración de los valores numéricos de los píxeles (brillo, contraste, filtros de detección de bordes). En el desarrollo de software, esto se realiza mediante matrices de convolución que recorren la imagen original para generar una nueva versión procesada.
+# Conclusion
+La culminación de esta Unidad I: Introducción a la Graficación por Computadora permite establecer una conexión crítica entre la teoría histórica y la implementación técnica moderna. A través del desarrollo de este portafolio, se llega a las siguientes determinaciones:
+
+Fundamentación Matemática: Se ha comprobado que la graficación no es un proceso estético aislado, sino una extensión del álgebra lineal y la trigonometría. La capacidad de renderizar un polígono o animar una cámara depende directamente de la manipulación de matrices de transformación y el cálculo de vectores normales.
+Versatilidad de Python: El uso de Python como lenguaje conductor demuestra que la programación de alto nivel es capaz de gestionar tanto interfaces de usuario dinámicas (mediante Flet) como la generación de geometría compleja y procesos de iluminación en entornos 3D (mediante Blender).
+Evolución y Estándares: El estudio de los modelos de color (RGB, HSV, CMYK) y los formatos de imagen (Raster vs. Vectorial) subraya la importancia de elegir las herramientas adecuadas según el área de aplicación, ya sea para visualización web, impresión o renderizado fotorrealista.
+En conclusión, los conceptos abordados sientan las bases para el desarrollo de software con interfaces más humanas, eficientes y visualmente precisas, alineando el rigor matemático con la creatividad tecnológica.
+
+# Bibliografias
+
+* Blender Foundation. (2026). Blender 4.0 Python API Documentation. Recuperado de https://docs.blender.org/api/current/
+* Flet Dev. (2026). Flet: Real-time apps in Python. Recuperado de https://flet.dev/docs/
+* Hearn, D., & Baker, M. P. (2006). Graficación por Computadora con OpenGL (3.ª ed.). Pearson Educación.
+* Hughes, J. F., van Dam, A., & Foley, J. D. (2013). Computer Graphics: Principles and Practice (3.ª ed.). Addison-Wesley Professional.
+* Scribbr. (2026). Generador de citas APA. Recuperado de https://www.scribbr.es/citar/generador/
+* Shirley, P., & Marschner, S. (2021). Fundamentals of Computer Graphics (5.ª ed.). A K Peters/CRC Press.
+* Vince, J. (2020). Mathematics for Computer Graphics. Springer Nature.
